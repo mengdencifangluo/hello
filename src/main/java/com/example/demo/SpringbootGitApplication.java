@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootGitApplication {
 
 	public static void main(String[] args) {
+		System.out.println("第一天提交工作");
 		SpringApplication.run(SpringbootGitApplication.class, args);
 	}
 }
